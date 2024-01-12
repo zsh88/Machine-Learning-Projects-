@@ -4,7 +4,7 @@ Welcome to my Machine Learning projects repository! This repository contains mul
 
 ## Projects
 
-- [Spam Detection](./spam-detection/README.md)
+- [Spam Detection](spam_detection.ipynb)
 
 - ...
 
