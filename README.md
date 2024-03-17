@@ -8,6 +8,6 @@ Welcome to my Machine Learning projects repository! This repository contains mul
 
 - [Predict Sales Revenue](Predict_Sales_Revenue)
   
-- [Tesla Stock Price Prediction](Tesla Stock Price Prediction) 
+- [Tesla Stock Price Prediction](https://github.com/zsh88/Machine-Learning-Projects-/tree/main/Tesla%20Stock%20Price%20Prediction)
 
 Feel free to explore each project by following the links above.
