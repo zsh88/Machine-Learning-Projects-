@@ -7,6 +7,8 @@ Welcome to my Machine Learning projects repository! This repository contains mul
 - [Spam Detection](spam_detection.ipynb)
 
 - [Predict Sales Revenue](Predict_Sales_Revenue)
+  
+- [Tesla Stock Price Prediction](Tesla Stock Price Prediction)
 
 
 Feel free to explore each project by following the links above.
