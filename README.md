@@ -12,4 +12,6 @@ Welcome to my Machine Learning projects repository! This repository contains mul
 
 - [Text Summarization](https://github.com/zsh88/Machine-Learning-Projects-/tree/main/Text%20Summarization)
 
+- [Extract Keywords](https://github.com/zsh88/Machine-Learning-Projects-/tree/main/Extract%20Keywords)
+
 Feel free to explore each project by following the links above.
