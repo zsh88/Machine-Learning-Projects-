@@ -14,7 +14,7 @@ Welcome to my Machine Learning projects repository! This repository contains mul
 
 - [Extract Keywords](https://github.com/zsh88/Machine-Learning-Projects-/tree/main/Extract%20Keywords)
 
-- [Taitanic](https://github.com/zsh88/Machine-Learning-Projects-/blob/main/README.md)
+- [Taitanic (Complete Project of ML)](https://github.com/zsh88/Machine-Learning-Projects-/blob/main/README.md)
 
   
 Feel free to explore each project by following the links above.
