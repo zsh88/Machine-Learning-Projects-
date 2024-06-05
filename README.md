@@ -14,7 +14,8 @@ Welcome to my Machine Learning projects repository! This repository contains mul
 
 - [Extract Keywords](https://github.com/zsh88/Machine-Learning-Projects-/tree/main/Extract%20Keywords)
 
-- [Taitanic (Complete Project of ML)](https://github.com/zsh88/Machine-Learning-Projects-/tree/main/Taitanic)
+- [Text Emotion Detection (End to End ML Project)](https://github.com/zsh88/Machine-Learning-Projects-/tree/main/Text%20Emotion%20Detection%20(End%20to%20End%20ML%20Project))
+
 
   
 Feel free to explore each project by following the links above.
